@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cb0xeHyRjq4wf2Ho8AwCmtuUH+XP5MVYvEnRJSarjHm+2HxFddxMLAEqgpSUa1B310jZjLb1IUWkuQ+66Mbg2A==",
+  "success": true,
+  "projectFilePath": "C:\\Projeto C#\\exercise-Logic-c#\\Treinamento-Logica\\Treinamento-Logica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\steel\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\steel\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\steel\\.nuget\\packages\\system.io\\4.1.0\\system.io.4.1.0.nupkg.sha512",
+    "C:\\Users\\steel\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512",
+    "C:\\Users\\steel\\.nuget\\packages\\system.text.encoding\\4.0.11\\system.text.encoding.4.0.11.nupkg.sha512",
+    "C:\\Users\\steel\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
