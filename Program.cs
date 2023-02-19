@@ -6,10 +6,9 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            Staircase staircase = new Staircase();
+            ExerciseReturnsSymbols exerciseReturnsSymbols = new ExerciseReturnsSymbols();
 
-            int a = 6;
-            int result = staircase.staircase(a);
+            var result = exerciseReturnsSymbols.ExerciseReturns();
 
             Console.WriteLine(result);
         }
