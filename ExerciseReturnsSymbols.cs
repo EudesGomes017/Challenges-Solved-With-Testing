@@ -3,7 +3,7 @@
     public class ExerciseReturnsSymbols
     {
 
-        public int ExerciseReturns()
+        public void ExerciseReturns()
         {
 
 
@@ -12,7 +12,7 @@
             int tamanho = int.Parse(Console.ReadLine());
 
             // Imprime a escada
-            for (int i = 1; i <= tamanho; i++)
+            for (int i = 0; i <= tamanho; i++)
             {
                 // Adiciona espaços em branco antes dos símbolos
                 string espacos = new string(' ', tamanho - i);
@@ -25,7 +25,9 @@
 
             }
 
-            return tamanho;
+
+
+           
         }
     }
 }
