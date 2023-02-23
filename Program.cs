@@ -6,11 +6,11 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            MaximoValues exerciseReturnsSymbols = new MaximoValues();
+            BirthdayCakeExercise exerciseReturnsSymbols = new BirthdayCakeExercise();
 
-            List<int> arr = new List<int>() { 1, 3, 5, 7, 9 };
+            List<int> arr = new List<int>() {4,4,4,5,1,3 };
 
-             exerciseReturnsSymbols.MaximoAndMinimis(arr);
+             exerciseReturnsSymbols.birthdayCakeCandles(arr);
 
             
 
